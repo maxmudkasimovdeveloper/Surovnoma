@@ -1,0 +1,94 @@
+body {
+    background-color:#39f9c9;
+    color: blue;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Tahoma", "Arial", "Times New Roman";
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info {
+    background-color: #99ffe6;
+    color: blue;
+    font-size: 16px;
+    margin: 5px 50px 10px 50px;
+    border-radius: 10px;
+    border: 1px solid royalblue;
+}
+.container {
+    text-align: center;
+    background-color: #99ffe6;
+    border-radius: 5px;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+.container label input {
+    background-color: #AFEEEE;
+    border-radius: 5px;
+    border-color: blue;
+    border-style: solid;
+    margin: 5px 20px 5px;
+    border: 1px solid royalblue;
+}
+.education {
+    background-color: #99ffe6;
+    border-radius: 5px;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+
+.language {
+    background-color: #99ffe6	;
+    border-radius: 5px;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+.prog {
+    background-color: #99ffe6;
+    border-radius: 5px;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+.lvl {
+    background-color: #99ffe6;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+.textarea {
+    background-color: #99ffe6;
+    border-radius: 5px;
+    border-color: white;
+    margin: 5px 50px 5px 50px;
+    margin: 5px 50px 5px 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid royalblue;
+}
+.textarea textarea {
+    background-color: #AFEEEE;
+    margin: 5px 50px 5px 50px;
+
+}
+.send {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.return {
+    background-color: tomato;
+    color: white;
+    border-radius: 10px;
+}
+
